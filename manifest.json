@@ -1,7 +1,7 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "version": "3.0.0",
-  "name": "Rosey's Helper",
+  "name": "Jay's Helper",
   "description": "A helper for the Skiovox exploit -- read more at skiovox.com",
   "icons": {
     "128": "icon.png"
